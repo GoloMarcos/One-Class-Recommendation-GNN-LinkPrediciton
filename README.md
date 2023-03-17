@@ -18,3 +18,16 @@ Recommender systems play a key role in every online platform to provide users a 
 - Dataset: Dataset files
 - Results: total results of each method in each scenario considering all parameters used
 - Code: source codes used for the study experiments and result analysis
+
+# Citing:
+
+If you use any part of this code in your research, please cite it using the following BibTex entry
+```latex
+@inproceedings{ref:Golo2023,
+  author = {Gôlo, Marcos and Moraes, Leonardo and Goularte, Rudinei and Marcacini, Ricardo},
+  title = {One-Class Recommendation through Unsupervised Graph Neural Networks for Link Prediction},
+  booktitle={10th Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)},
+  year={2023},
+  publisher={SBC}
+}
+```
